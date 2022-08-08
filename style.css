@@ -22,7 +22,8 @@ body{
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
-    
+
+       
 }
 .text{
     margin-bottom: 0.5rem;
@@ -39,6 +40,7 @@ h1{
     background-color: rgba(0, 0, 0, 0.6);
     padding: 15px 17px;
     font-size: medium;
+        
 
 }
 .inputs .input-text{
