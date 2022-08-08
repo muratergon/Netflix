@@ -12,6 +12,9 @@ body{
     text-align: center;
     background-repeat: no-repeat; 
     /* resmin tekrarını engeller */
+    /* background-attachment: fixed; */
+    background-size: 100%;
+   
 }
 
 .container{
